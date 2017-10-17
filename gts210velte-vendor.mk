@@ -60,3 +60,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/samsung/gts210velte/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so
+    vendor/samsung/gts210velte/proprietary/etc/init/init.rilcommon.rc:system/etc/init/init.rilcommon.rc
